@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teungku-lak-beuras)
-<!--
+<!-- I don't delete these lines because I don't want to. Leave them alone.
 **teungku-lak-beuras/teungku-lak-beuras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
